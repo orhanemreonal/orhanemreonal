@@ -1,5 +1,9 @@
 # 💫 About Me:
-asdsad
+About Me:
+💻 I’m currently working on some .NET/ReactJS Projects
+📚 I’m graduated from Sakarya University in Turkey
+📈 I experienced in HTML,CSS,JavaScript,ReactJS.
+📖 I'm currently learning Node.js,React.
 
 
 ## 🌐 Socials:
